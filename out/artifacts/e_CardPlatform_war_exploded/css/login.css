@@ -1,0 +1,87 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.page_name{
+	background:url(../images/page_name.png);
+	width:1000px;
+	height:43px;
+	margin:0 auto;
+	margin-top:10px;
+	font-size:22px;
+	color:#1E9CAD;
+	padding-top:7px;
+	text-indent:30px;
+}
+
+.login_content{
+	width:960px;
+	background:#fff;
+	margin:15px auto;
+	padding:20px;
+	font-family:宋体
+}
+.font14{
+    font-size: 14px;
+    margin-bottom: 20px;
+	font-family:宋体
+}
+.tn-form-label {
+    background: url(../images/it-line03.png);
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 32px;
+    padding: 0 0 0 5px;
+    text-align: center;
+    width: 80px;
+
+}
+.tn-textbox {
+    background: url(../images/it-input.png) no-repeat top left;
+    border: 0 none;
+    color: #999;
+    float: left;
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 5px;
+    width: 273px;
+	
+}
+.login_l{
+	padding-left:50px;
+	background:url(../images/it-line05.png) repeat-y right top;
+	width:500px;
+}
+.span1{
+	float:left;
+	margin:15px 0px;
+}
+.tn-form-row-button {
+    border-top: 1px dashed #ddd;
+    padding: 30px 0 0 120px;
+    text-align: center;
+	margin-top:30px;width:380px;
+	clear:both;
+}
+.tn-button-text{
+	background: url(../images/it-button.png) no-repeat -205px -9px;
+	width:145px;
+	height:43px;
+	font-size: 16px;
+	line-height:43px;
+	font-weight: bold;
+	display:inline-block;
+	padding: 0 10px;
+	color:white;
+	border:none;
+	text-align:center
+}
+.tn-button-text:hover{
+	background: url(../images/it-button.png) no-repeat -205px -64px;
+}
+
+.it-register-text {
+    font-size: 14px;
+    padding-top: 10px;
+}
+
